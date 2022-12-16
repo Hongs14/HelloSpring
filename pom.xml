@@ -32,6 +32,11 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>${org.springframework-version}</version>
 		</dependency>
+		<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib</artifactId>
+			<version>3.2.5</version>
+		</dependency>
 				
 		<!-- AspectJ -->
 		<dependency>
